@@ -19,5 +19,5 @@ Olá! Eu sou Pedro Alencar 👋
  	<a href="https://www.twitch.tv/pealenk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedroealencarm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-   ![Snake animation](https://github.com/PedroAlencarM/PedroAlencarM/edit/main/README.md)
+   ![Snake animation](https://github.com/PedroAlencarM/PedroAlencarM/blob/output/github-contribution-grid-snake.svg)
   
